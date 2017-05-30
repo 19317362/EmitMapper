@@ -1,0 +1,7 @@
+d:\Work2017\Ser\EmitMapper\Samples\EMConfigurations\bin\Debug\EMConfigurations.dll
+d:\Work2017\Ser\EmitMapper\Samples\EMConfigurations\bin\Debug\EMConfigurations.pdb
+d:\Work2017\Ser\EmitMapper\Samples\EMConfigurations\bin\Debug\EmitMapper.dll
+d:\Work2017\Ser\EmitMapper\Samples\EMConfigurations\bin\Debug\EmitMapper.pdb
+d:\Work2017\Ser\EmitMapper\Samples\EMConfigurations\obj\Debug\EMConfigurations.csprojResolveAssemblyReference.cache
+d:\Work2017\Ser\EmitMapper\Samples\EMConfigurations\obj\Debug\EMConfigurations.dll
+d:\Work2017\Ser\EmitMapper\Samples\EMConfigurations\obj\Debug\EMConfigurations.pdb

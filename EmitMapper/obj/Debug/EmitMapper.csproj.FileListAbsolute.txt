@@ -1,0 +1,5 @@
+d:\Work2017\Ser\EmitMapper\EmitMapper\bin\Debug\EmitMapper.dll
+d:\Work2017\Ser\EmitMapper\EmitMapper\bin\Debug\EmitMapper.pdb
+d:\Work2017\Ser\EmitMapper\EmitMapper\obj\Debug\EmitMapper.csprojResolveAssemblyReference.cache
+d:\Work2017\Ser\EmitMapper\EmitMapper\obj\Debug\EmitMapper.dll
+d:\Work2017\Ser\EmitMapper\EmitMapper\obj\Debug\EmitMapper.pdb

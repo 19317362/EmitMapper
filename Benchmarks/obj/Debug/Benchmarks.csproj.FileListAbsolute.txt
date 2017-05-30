@@ -1,0 +1,13 @@
+d:\Work2017\Ser\EmitMapper\Benchmarks\obj\Debug\Benchmarks.csprojResolveAssemblyReference.cache
+d:\Work2017\Ser\EmitMapper\Benchmarks\bin\Debug\Benchmarks.exe.config
+d:\Work2017\Ser\EmitMapper\Benchmarks\bin\Debug\Benchmarks.exe
+d:\Work2017\Ser\EmitMapper\Benchmarks\bin\Debug\Benchmarks.pdb
+d:\Work2017\Ser\EmitMapper\Benchmarks\bin\Debug\AutoMapper.dll
+d:\Work2017\Ser\EmitMapper\Benchmarks\bin\Debug\BLToolkit.3.dll
+d:\Work2017\Ser\EmitMapper\Benchmarks\bin\Debug\EmitMapper.dll
+d:\Work2017\Ser\EmitMapper\Benchmarks\bin\Debug\LightDataAccess.dll
+d:\Work2017\Ser\EmitMapper\Benchmarks\bin\Debug\LinFu.DynamicProxy.dll
+d:\Work2017\Ser\EmitMapper\Benchmarks\bin\Debug\EmitMapper.pdb
+d:\Work2017\Ser\EmitMapper\Benchmarks\bin\Debug\LightDataAccess.pdb
+d:\Work2017\Ser\EmitMapper\Benchmarks\obj\Debug\Benchmarks.exe
+d:\Work2017\Ser\EmitMapper\Benchmarks\obj\Debug\Benchmarks.pdb

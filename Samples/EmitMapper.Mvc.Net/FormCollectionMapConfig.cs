@@ -25,14 +25,19 @@ namespace EmitMapper.Mvc.Net
 							(
 								(form, valueProviderObj) =>
 								{
-									var valueProvider = valueProviderObj as IDictionary<string, ValueProviderResult>;
+									//var valueProvider = valueProviderObj as IDictionary<string, ValueProviderResult>;
+									var valueProvider = valueProviderObj as IValueProvider;
 									if (valueProvider == null)
 									{
 										valueProvider = ((FormCollection)form).ToValueProvider();
+
+										//var kk = ((FormCollection)form).ToValueProvider();
 									}
 
 									ValueProviderResult res;
-									if(valueProvider.TryGetValue(m.Name, out res))
+									res = valueProvider.GetValue(m.Name);
+									//if (valueProvider.TryGetValue(m.Name, out res))
+									if(res !=null)
 									{
 										return ValueToWrite<object>.ReturnValue(res.ConvertTo(ReflectionUtils.GetMemberType(m)));
 									}

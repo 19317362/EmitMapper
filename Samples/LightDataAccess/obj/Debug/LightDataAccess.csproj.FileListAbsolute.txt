@@ -1,0 +1,7 @@
+d:\Work2017\Ser\EmitMapper\Samples\LightDataAccess\bin\Debug\LightDataAccess.dll
+d:\Work2017\Ser\EmitMapper\Samples\LightDataAccess\bin\Debug\LightDataAccess.pdb
+d:\Work2017\Ser\EmitMapper\Samples\LightDataAccess\bin\Debug\EmitMapper.dll
+d:\Work2017\Ser\EmitMapper\Samples\LightDataAccess\bin\Debug\EmitMapper.pdb
+d:\Work2017\Ser\EmitMapper\Samples\LightDataAccess\obj\Debug\LightDataAccess.csprojResolveAssemblyReference.cache
+d:\Work2017\Ser\EmitMapper\Samples\LightDataAccess\obj\Debug\LightDataAccess.dll
+d:\Work2017\Ser\EmitMapper\Samples\LightDataAccess\obj\Debug\LightDataAccess.pdb

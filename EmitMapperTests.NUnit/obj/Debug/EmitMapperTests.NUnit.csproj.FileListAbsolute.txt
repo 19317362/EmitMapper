@@ -1,0 +1,8 @@
+d:\Work2017\Ser\EmitMapper\EmitMapperTests.NUnit\bin\Debug\EmitMapperTests.NUnit.dll
+d:\Work2017\Ser\EmitMapper\EmitMapperTests.NUnit\bin\Debug\EmitMapperTests.NUnit.pdb
+d:\Work2017\Ser\EmitMapper\EmitMapperTests.NUnit\bin\Debug\EmitMapper.dll
+d:\Work2017\Ser\EmitMapper\EmitMapperTests.NUnit\bin\Debug\nunit.framework.dll
+d:\Work2017\Ser\EmitMapper\EmitMapperTests.NUnit\bin\Debug\EmitMapper.pdb
+d:\Work2017\Ser\EmitMapper\EmitMapperTests.NUnit\obj\Debug\EmitMapperTests.NUnit.csprojResolveAssemblyReference.cache
+d:\Work2017\Ser\EmitMapper\EmitMapperTests.NUnit\obj\Debug\EmitMapperTests.NUnit.dll
+d:\Work2017\Ser\EmitMapper\EmitMapperTests.NUnit\obj\Debug\EmitMapperTests.NUnit.pdb
